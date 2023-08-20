@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/alireza-akch/monsters-rolodex/static/css/main.6e706109.css",
+    "main.js": "/alireza-akch/monsters-rolodex/static/js/main.d6c51757.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/alireza-akch/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "static/media/BigelowRules-Regular.ttf": "/alireza-akch/monsters-rolodex/static/media/BigelowRules-Regular.28f779aba33f594cb997.ttf",
+    "static/media/logo.svg": "/alireza-akch/monsters-rolodex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alireza-akch/monsters-rolodex/index.html",
+    "main.6e706109.css.map": "/alireza-akch/monsters-rolodex/static/css/main.6e706109.css.map",
+    "main.d6c51757.js.map": "/alireza-akch/monsters-rolodex/static/js/main.d6c51757.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/alireza-akch/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e706109.css",
+    "static/js/main.d6c51757.js"
+  ]
+}
